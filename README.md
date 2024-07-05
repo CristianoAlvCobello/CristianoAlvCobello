@@ -61,11 +61,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianoAlvCobello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github.com/CristianoAlvCobello/CristianoAlvCobello/assets/172451127/2401397b-fdb7-401f-a740-e5705324c9d7" alt="kikicat">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianoAlvCobello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="210" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="left" height="450" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3955b514-aadc-4d7d-8248-71fc5b9c30ce/dg39dc3-55810788-e69f-48db-bf61-a92401dd34d2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5NTViNTE0LWFhZGMtNGQ3ZC04MjQ4LTcxZmM1YjljMzBjZVwvZGczOWRjMy01NTgxMDc4OC1lNjlmLTQ4ZGItYmY2MS1hOTI0MDFkZDM0ZDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sEqfj98mUXPDJNx009a8nG6r4k45Kumg8c9H0cYO2wc"/>
+<img align="left" height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3955b514-aadc-4d7d-8248-71fc5b9c30ce/dg39dc3-55810788-e69f-48db-bf61-a92401dd34d2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5NTViNTE0LWFhZGMtNGQ3ZC04MjQ4LTcxZmM1YjljMzBjZVwvZGczOWRjMy01NTgxMDc4OC1lNjlmLTQ4ZGItYmY2MS1hOTI0MDFkZDM0ZDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sEqfj98mUXPDJNx009a8nG6r4k45Kumg8c9H0cYO2wc"/>
 
 ###

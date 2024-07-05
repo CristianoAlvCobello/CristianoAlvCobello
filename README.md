@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/CristianoAlvCobello/CristianoAlvCobello/assets/172451127/2401397b-fdb7-401f-a740-e5705324c9d7" alt="kikicat">
+  <img src="https://github.com/CristianoAlvCobello/CristianoAlvCobello/assets/172451127/2401397b-fdb7-401f-a740-e5705324c9d7" alt="kikicat" height="210">
   <img src="https://github-readme-stats.vercel.app/api?username=CristianoAlvCobello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="210" alt="stats graph"  />
 </div>
 
